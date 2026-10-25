@@ -1,0 +1,37 @@
+[
+  {
+    "seconds": 0.0,
+    "action": "Початковий стан застосунку",
+    "screenshot": "screenshots/android/01.png"
+  },
+  {
+    "seconds": 2.7,
+    "action": "Введення x=3",
+    "screenshot": "screenshots/android/02.png"
+  },
+  {
+    "seconds": 31.7,
+    "action": "Обчислення y=88",
+    "screenshot": "screenshots/android/03.png"
+  },
+  {
+    "seconds": 41.5,
+    "action": "Крок лічильника +4",
+    "screenshot": "screenshots/android/04.png"
+  },
+  {
+    "seconds": 45.9,
+    "action": "Крок лічильника +4",
+    "screenshot": "screenshots/android/05.png"
+  },
+  {
+    "seconds": 50.4,
+    "action": "Крок лічильника +4",
+    "screenshot": "screenshots/android/06.png"
+  },
+  {
+    "seconds": 54.5,
+    "action": "Підсумковий стан",
+    "screenshot": "screenshots/android/07.png"
+  }
+]
